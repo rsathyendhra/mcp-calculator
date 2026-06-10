@@ -1,12 +1,12 @@
 # mcp-calculator
 
-Save as requirements.txt:
+Save as requirements.txt:  
 
-mcp>=0.5.0
-openai>=1.3.0
-python-dotenv>=1.0.0
-Install with:
-pip install -r requirements.txt
+mcp>=0.5.0  
+openai>=1.3.0  
+python-dotenv>=1.0.0  
+Install with:  
+pip install -r requirements.txt  
 
 
 .ENV.EXAMPLE:
