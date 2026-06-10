@@ -18,5 +18,5 @@ DEBUG=false #Optional: Debug mode
 
 Commands:
 
-Start server:   python Calculator_MCP_Server.py
-Start client:   python Calculator_MCP_Client.py ./Calculator_MCP_Server.py
+Start server:   python calculator_mcp_server.py
+Start client:   python calculator_mcp_client.py ./calculator_mcp_server.py
